@@ -3,6 +3,7 @@ class Sample{
     System.out.println("Good Morning");
     System.out.println("Good Night");
     System.out.println("Good morning");
+    String msg="vickee";
     System.out.println("Good Afternoon");
   }
 }
