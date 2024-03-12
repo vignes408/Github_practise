@@ -3,5 +3,6 @@ class Sample{
     System.out.println("Good Morning");
     System.out.println("Good Night");
     System.out.println("Good morning");
+    System.out.println("Good Afternoon");
   }
 }
